@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+html {
+    background: url('https://i.imgur.com/Q2ajo83.gif') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    color: white;
+    font-family: muli;
+    font-size: 20;
+}
+
+#n {
+    position: absolute;
+    left: 50%;
+    top: 45%;
+}
+
+#kike {
+    position: absolute;
+    left: 49.83%;
+    top: 52.5%;
+}
+
+/* when u hoverin over that shit nigga */
+
+a {
+    text-decoration: none;
+    color: white;
+}
